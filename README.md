@@ -11,7 +11,7 @@ For easy setup go the the website at https://fognetwork.github.io/Ingot
 3. Set the name to `Ingot` and the URL to the code below or [here](https://github.com/FogNetwork/Ingot/blob/main/bookmarklet.js)
 
 ```js
-javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot/ingot.min.js';document.body.appendChild(a);}())
+javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/kadenw3208/Ingot/ingot.min.js';document.body.appendChild(a);}())
 ```
 
 ## Screenshots
